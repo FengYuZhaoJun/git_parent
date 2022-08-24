@@ -1,0 +1,3 @@
+[submodule "submodule/child01"]
+	path = submodule/child01
+	url = git@github.com:FengYuZhaoJun/git_child01.git
